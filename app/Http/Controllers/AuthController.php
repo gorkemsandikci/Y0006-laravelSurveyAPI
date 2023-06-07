@@ -6,7 +6,6 @@ use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Hash;
-use Illuminate\Validation\ValidationException;
 use Illuminate\Support\Carbon;
 
 class AuthController extends Controller
